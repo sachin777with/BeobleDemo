@@ -1,2 +1,2 @@
 # BeobleDemo
-This is a task that given by bobble team.
+This is metamask connect demo via token login logout
